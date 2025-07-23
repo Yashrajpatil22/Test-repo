@@ -7,6 +7,4 @@ new para 2
 para 3
 
 
-merge conglict
-
-this sis a new commi
+merge conglic
